@@ -1,0 +1,7 @@
+com\ibeifeng\sparkproject\JdbcCRUD.class
+com\ibeifeng\sparkproject\Singleton.class
+com\ibeifeng\sparkproject\TaskDAOTest.class
+com\ibeifeng\sparkproject\FastjsonTest.class
+com\ibeifeng\sparkproject\MockData.class
+com\ibeifeng\sparkproject\ConfigurationManagerTest.class
+com\ibeifeng\sparkproject\JDBCHelperTest.class
